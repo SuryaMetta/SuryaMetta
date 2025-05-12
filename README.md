@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on projects related to aiml
 - 📫 How to reach me - whatsapp 8008247570
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: you red till here and just leave the page without contacting me
 
 <!---
